@@ -12,7 +12,7 @@ Calculadora profissional construída do zero que aceita **sim/Sim/s** para conti
 
 ## 📱 Como Usar
 
-gcc calculadora.c -o calc
+gcc main.c -o calc
 ./calc
 
 
