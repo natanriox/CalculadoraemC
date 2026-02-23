@@ -1,22 +1,23 @@
-# 🚀 Calculadora Completa em C
+# Calculadora em C
 
-Calculadora profissional construída do zero que aceita **sim/Sim/s** para continuar!
+O legado da calculadora é que o projetote ajuda a aplicar conceitos básico de programação.
 
-## ✨ **Recursos**
-✅ 4 operações: `+`, `-`, `x`, `/`  
-✅ **Loop infinito** com `do-while`
-✅ **Funções modulares** (soma, subtracao, etc)
-✅ **Proteção divisão por zero**
-✅ Aceita **"sim", "Sim", "s", "S"** para repetir
-✅ Interface limpa e profissional
+## Estrutura do projeto:
 
-## 📱 Como Usar
+-  4 operações: `+`, `-`, `x`, `/`  
+- **Loop infinito** com `do-while`
+- **Funções modulares** (soma, subtracao, etc)
+- **Proteção divisão por zero**
+- Aceita **"sim", "Sim", "s", "S"** para repetir
+- Interface limpa e profissional
 
-gcc main.c -o calc
-./calc
+## Stack:
 
+Linguagem: C
+Debugger: GCC
+IDE: CLion
 
-## 🎯 Exemplo
+## Exemplo
 
 Numero 1: 10
 Operador: x
@@ -24,11 +25,9 @@ Numero 2: 5
 Resultado: 50
 Deseja continuar? sim
 
-
-## 🛠️ Tech Stack
-
-Linguagem: C
-Compiler: GCC
-IDE: CLion
-
 Extra: cada erro é uma lição.
+
+## 📱 Como Usar
+
+gcc main.c -o calc
+./calc
